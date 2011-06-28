@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MisTareas!</string>
-    <string name="app_name">Mis tareas</string>
-    <string name="strOpcionQuitar">Dar por finalizada</string>
+    <string name="app_name">Mis tareas por hacer</string>
+    <string name="strOpcionFinalizar">Dar por finalizada</string>
+    <string name="strOpcionFinalizarLlamar">Dar por finalizada y llamar</string>
+    <string name="strOpcionAsociarContacto">Asociar contacto</string>
 </resources>

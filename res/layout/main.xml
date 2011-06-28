@@ -8,8 +8,16 @@
 		android:id="@+id/txtNuevaTarea"
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
-		android:text="Nueva tarea"
+		android:text=""
+		android:hint="Nueva tarea"
 		/>
+	<Button 
+		android:text="Obtener por voz" 
+		android:id="@+id/btnIniciarReconocimientoVoz" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		>
+	</Button>
 	<ListView
 		android:id="@+id/lstTarea"
 		android:layout_width="fill_parent"

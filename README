@@ -9,3 +9,12 @@ La aplicación está escrita en Java; se utilizó Eclipse como herramienta de de
 La presentación que se dio en el taller se puede descargar de: 
 http://goo.gl/zn8KR
 
+========================
+Ingreso de tareas por medio de reconocimiento de voz 
+27 de junio de 2011
+========================
+La aplicación fue modificada para que permita ingresar tareas por medio de reconocimiento de voz y además permite asociar un contacto a una tarea. De esta manera al finalizar una tarea, permite hacer una llamada telefónica al contacto asociado, con el objetivo de que el usuario comunique la finalización de la tarea. Esta modificación fue presentada en una reunión de Cultura Android Guatemala ( http://cultura-androidgt.org/ ). 
+
+La presentación que está publicada en: 
+http://goo.gl/Uof7z
+
